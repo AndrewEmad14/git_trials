@@ -1,5 +1,7 @@
 hello david
 
-revert task
 
+<<<<<<< HEAD
 hello y7ya
+=======
+>>>>>>> parent of 7d0ba96 (Revert "3 commit")
